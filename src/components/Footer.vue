@@ -1,6 +1,5 @@
 <template>
 <div>
-	<footer id="footer">
 <div class="footer-top">
 <div class="container">
 </div>
@@ -19,6 +18,7 @@ Purchase the pro version with working PHP/AJAX contact form: https://bootstrapma
 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
 </div>
 </div>
-</footer>
 </div>
 </template>
+<style>
+</style>
