@@ -1,5 +1,4 @@
 <template>
-<div>
 	<section id="call-to-action">
       <div class="container wow fadeIn">
         <div class="row">
@@ -14,5 +13,5 @@
 
       </div>
     </section>
-</div>
+
 </template>

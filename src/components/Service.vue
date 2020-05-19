@@ -1,5 +1,4 @@
 <template>
-	<div>
 	<section id="services">
       <div class="container wow fadeIn">
         <div class="section-header">
@@ -54,5 +53,4 @@
 
       </div>
     </section>
-</div>
 </template>

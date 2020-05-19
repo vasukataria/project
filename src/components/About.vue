@@ -1,5 +1,4 @@
 <template>
-<div>
 <section id="about">
 <div class="container">
 <div class="row about-container">
@@ -35,5 +34,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </div>
 </section>
-</div>
 </template>

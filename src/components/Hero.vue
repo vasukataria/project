@@ -1,5 +1,4 @@
 <template>
-<div>
 <section id="hero">
     <div class="hero-container">
       <h1>Welcome to Regna</h1>
@@ -7,6 +6,4 @@
       <a href="#about" class="btn-get-started">Get Started</a>
     </div>
   </section>
-</div>
-
 </template>
