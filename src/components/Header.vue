@@ -38,27 +38,3 @@
     </div>
      </header>
 </template>
-<script>
-import $ from "jquery"
-import superfish from "../assets/lib/superfish/superfish.js"
-
- export default {
-  name: 'Header',
-  props: {
-    
-  },
-  data: () => ({
-     //superfish   
-    }),
-  
-  mounted(){
-      // Initiate superfish on nav menu
-  $('.nav-menu').superfish({
-    animation: {
-      opacity: 'show'
-    },
-    speed: 400
-  });
-     },
-  } 
-</script>
